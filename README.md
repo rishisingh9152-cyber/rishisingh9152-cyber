@@ -14,24 +14,44 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/3o7TKz2eMXx7dn95FS/giphy.gif" style="border-radius:16px; margin-left:20px"/>
 
-&nbsp;&nbsp;I'm **Rishi** — an Electronics & Communication Engineering  
-&nbsp;&nbsp;graduate who traded circuit diagrams for codebases.  
-&nbsp;&nbsp;Deep interest in **software development**, **AI/ML**, and  
-&nbsp;&nbsp;building things that actually solve real problems.
+&nbsp;&nbsp;I'm **Rishi** — a **Java backend developer** and **AI/ML engineer**  
+&nbsp;&nbsp;who builds systems that actually ship. I trained as an  
+&nbsp;&nbsp;Electronics & Communication Engineer, then moved into  
+&nbsp;&nbsp;software because I wanted to build the systems, not just  
+&nbsp;&nbsp;the circuits underneath them.
 
-&nbsp;&nbsp;Started out figuring out how systems work — from  
-&nbsp;&nbsp;electronics to code — and turned that into a focus on  
-&nbsp;&nbsp;**backend development in Java** and applying AI where  
-&nbsp;&nbsp;it counts.
+&nbsp;&nbsp;I work both sides of the stack — **backend architecture  
+&nbsp;&nbsp;in Java** for systems that need to hold up under load,  
+&nbsp;&nbsp;and **applied AI/ML** for problems that need intelligence,  
+&nbsp;&nbsp;not just logic. Outside of code, I've led teams and run  
+&nbsp;&nbsp;large-scale events — sourcing sponsors, managing budgets,  
+&nbsp;&nbsp;and getting things done under real deadlines.
+
+&nbsp;&nbsp;I care about the full lifecycle of a build: idea →  
+&nbsp;&nbsp;architecture → execution → results that hold up.
 
 <br/>
 
-&nbsp;&nbsp;🔩 &nbsp;Finalist, **Solar Decathlon India 2025** — sustainable cooling tech  
-&nbsp;&nbsp;📜 &nbsp;Filing **2 patents** for original engineering work  
-&nbsp;&nbsp;🎖️ &nbsp;Secretary, **IETE-SAKEC** — ran a 40+ event technical symposium  
-&nbsp;&nbsp;💪 &nbsp;Raised **₹50,000** in sponsorships, no excuses, got it done  
-&nbsp;&nbsp;⚙️ &nbsp;Building **backend systems & AI-powered applications**  
-&nbsp;&nbsp;📈 &nbsp;Always leveling up — new stack, new challenge, no problem
+<div align="center">
+
+|  🏆 **₹1.5L**  |  📜 **2**  |  🎪 **40+**  |  💰 **₹50K**  |
+|:---:|:---:|:---:|:---:|
+| Grant — Solar Decathlon India | Patents Filed | Events Organized & Led | Sponsorships Raised |
+
+</div>
+
+<br/>
+
+**⚡ Highlights**
+
+&nbsp;&nbsp;🔩 &nbsp;**Solar Decathlon India 2025 Finalist** — built a sustainable cooling  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;system that secured a **₹1.5 lakh grant**, competing against teams nationwide  
+&nbsp;&nbsp;📜 &nbsp;Filing **2 patents** for original engineering work of my own design  
+&nbsp;&nbsp;🎖️ &nbsp;**Secretary, IETE-SAKEC** — planned and executed **40+ technical events**,  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;end-to-end, from concept to closing ceremony  
+&nbsp;&nbsp;💪 &nbsp;Raised **₹50,000+** in sponsorships through direct outreach — no shortcuts  
+&nbsp;&nbsp;⚙️ &nbsp;Building **backend systems in Java** and **AI-powered applications** in Python  
+&nbsp;&nbsp;📈 &nbsp;Constantly shipping — new stack, new challenge, no problem
 
 <br/>
 
@@ -143,6 +163,10 @@
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=rishisingh9152-cyber&theme=dark&hide_border=false&background=0d1117&ring=c1272d&fire=3a3a3a&currStreakLabel=c1272d" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rishisingh9152-cyber&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" width="95%"/>
 
 <br/><br/>
 
