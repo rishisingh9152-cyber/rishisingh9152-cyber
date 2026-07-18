@@ -89,9 +89,9 @@
 <p><a href="https://www.linkedin.com/in/singh-rishi-tech"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0077B5" /></a>
 <a href="mailto:singhrishi.tech@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&amp;logo=gmail&amp;logoColor=D14836" /></a>
 <a href="https://github.com/rishisingh9152-cyber"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
-<a href="https://mastodon.social/@RishiSingh"><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-161b22?style=for-the-badge&amp;logo=mastodon&amp;logoColor=6364FF" /></a></p>
+</p>
 <p><br/></p>
-<p><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=rishisingh9152-cyber&amp;style=flat-square&amp;color=c1272d&amp;labelColor=161b22&amp;label=PROFILE+VIEWS" /></p>
+
 <p><br/><br/></p>
 <p><img src="https://capsule-render.vercel.app/api?type=waving&color=0:c1272d,50:6e1414,100:0d1117&height=110&section=footer&text=built%20by%20Rishi&fontSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/></p>
 </div>
