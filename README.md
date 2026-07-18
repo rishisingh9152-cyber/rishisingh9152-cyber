@@ -1,57 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,25:2b2b2b,50:3a3a3a,75:8a1c1c,100:c1272d&height=230&section=header&text=Rishi%20Singh&fontSize=62&fontColor=ffffff&fontAlignY=42&desc=BACKEND%20ENGINEER%20%20•%20%20AI%2FML%20DEVELOPER%20%20•%20%20BUILDER&descAlignY=65&descSize=17&descColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e1414,100:c1272d&height=210&section=header&text=RISHI%20SINGH&fontSize=54&fontColor=ffffff&fontAlignY=42&desc=Java%20Backend%20Developer%20%20·%20%20AI%2FML%20Engineer&descAlignY=62&descSize=16&descColor=e6e6e6&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=C1272D&center=true&vCenter=true&width=650&lines=Building+backend+systems+in+Java;From+Electronics+to+Software;Applying+AI+to+real-world+problems;Currently+filing+2+patents;Built+different.+Built+to+ship.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=C1272D&center=true&vCenter=true&width=600&lines=Backend+systems+that+scale;AI%2FML+that+solves+real+problems;%E2%82%B91.5L+grant+%E2%80%94+Solar+Decathlon+India+2025;2+patents+in+progress)](https://git.io/typing-svg)
+
+<sub>📍 Mumbai, India &nbsp;·&nbsp; 🎓 Electronics & Communication Engineering &nbsp;·&nbsp; 🟢 Open to Backend / AI-ML roles</sub>
 
 </div>
 
 <br/>
 
-## 🛠️ About Me
+## About
 
-<img align="right" width="320" src="https://media.giphy.com/media/3o7TKz2eMXx7dn95FS/giphy.gif" style="border-radius:16px; margin-left:20px"/>
+I'm a Java backend developer and AI/ML engineer who takes ideas from architecture to production — not just one or the other. My background is in Electronics & Communication Engineering, which is where I learned to think in systems: understand the constraints, design for scale, ship something that holds up.
 
-&nbsp;&nbsp;I'm **Rishi** — a **Java backend developer** and **AI/ML engineer**  
-&nbsp;&nbsp;who builds systems that actually ship. I trained as an  
-&nbsp;&nbsp;Electronics & Communication Engineer, then moved into  
-&nbsp;&nbsp;software because I wanted to build the systems, not just  
-&nbsp;&nbsp;the circuits underneath them.
-
-&nbsp;&nbsp;I work both sides of the stack — **backend architecture  
-&nbsp;&nbsp;in Java** for systems that need to hold up under load,  
-&nbsp;&nbsp;and **applied AI/ML** for problems that need intelligence,  
-&nbsp;&nbsp;not just logic. Outside of code, I've led teams and run  
-&nbsp;&nbsp;large-scale events — sourcing sponsors, managing budgets,  
-&nbsp;&nbsp;and getting things done under real deadlines.
-
-&nbsp;&nbsp;I care about the full lifecycle of a build: idea →  
-&nbsp;&nbsp;architecture → execution → results that hold up.
+Recent work spans sustainable-tech engineering, applied machine learning, and leading large, real-budget events — proof I can architect a system and run a room just as well.
 
 <br/>
 
-<div align="center">
-
-|  🏆 **₹1.5L**  |  📜 **2**  |  🎪 **40+**  |  💰 **₹50K**  |
-|:---:|:---:|:---:|:---:|
-| Grant — Solar Decathlon India | Patents Filed | Events Organized & Led | Sponsorships Raised |
-
-</div>
+<table align="center">
+<tr>
+<td align="center" width="180"><h2>₹1.5L</h2><sub><b>Grant Won</b><br/>Solar Decathlon India</sub></td>
+<td align="center" width="180"><h2>2</h2><sub><b>Patents</b><br/>Filed &amp; in progress</sub></td>
+<td align="center" width="180"><h2>40+</h2><sub><b>Events Led</b><br/>as Secretary, IETE-SAKEC</sub></td>
+<td align="center" width="180"><h2>₹50K</h2><sub><b>Sponsorship</b><br/>raised end-to-end</sub></td>
+</tr>
+</table>
 
 <br/>
 
-**⚡ Highlights**
+**Highlights**
 
-&nbsp;&nbsp;🔩 &nbsp;**Solar Decathlon India 2025 Finalist** — built a sustainable cooling  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;system that secured a **₹1.5 lakh grant**, competing against teams nationwide  
-&nbsp;&nbsp;📜 &nbsp;Filing **2 patents** for original engineering work of my own design  
-&nbsp;&nbsp;🎖️ &nbsp;**Secretary, IETE-SAKEC** — planned and executed **40+ technical events**,  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;end-to-end, from concept to closing ceremony  
-&nbsp;&nbsp;💪 &nbsp;Raised **₹50,000+** in sponsorships through direct outreach — no shortcuts  
-&nbsp;&nbsp;⚙️ &nbsp;Building **backend systems in Java** and **AI-powered applications** in Python  
-&nbsp;&nbsp;📈 &nbsp;Constantly shipping — new stack, new challenge, no problem
+- 🔩 **Solar Decathlon India 2025 Finalist** — built a sustainable cooling system that secured a ₹1.5L grant, competing against teams nationwide
+- 🎖️ **Secretary, IETE-SAKEC** — planned and ran 40+ technical events end-to-end, from concept to closing ceremony
+- 📜 Filing **2 patents** for original engineering work of my own design
+- ⚙️ Building **backend systems in Java** and **AI-powered applications** in Python, in production and on the side
 
 <br/>
 
@@ -61,86 +46,26 @@
 
 <div align="center">
 
-## 📡 Find Me Here
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singh-rishi-tech)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhrishi.tech@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishisingh9152-cyber)&nbsp;
-[![Mastodon](https://img.shields.io/badge/Mastodon-%232B90D9.svg?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@RishiSingh)
-
-</div>
+## Tech Stack
 
 <br/>
 
----
+<img src="https://skillicons.dev/icons?i=java,python,js,html,spring,fastapi,flask,express,nodejs,postgres,firebase,aws,gcp,docker,git,githubactions,gitlab,postman,tensorflow,pytorch,raspberrypi,powershell&theme=dark&perline=11"/>
 
-<br/>
+<br/><br/>
 
-<div align="center">
-
-## 💻 Tech Stack
-
-<br/>
-
-**🔤 Languages**
-
-![Java](https://img.shields.io/badge/Java-3a3a3a?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-8a1c1c?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-c1272d?style=for-the-badge&logo=html5&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-2b2b2b?style=for-the-badge&logo=powershell&logoColor=white)
-
-<br/>
-
-**🚀 Backend & APIs**
-
-![Spring](https://img.shields.io/badge/Spring-3a3a3a?style=for-the-badge&logo=spring&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-8a1c1c?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-1a1a1a?style=for-the-badge&logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-c1272d?style=for-the-badge&logo=express&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-2b2b2b?style=for-the-badge&logo=node.js&logoColor=6DA55F)
-![JWT](https://img.shields.io/badge/JWT-3a3a3a?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-1a1a1a?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-8a1c1c?style=for-the-badge&logo=swagger&logoColor=white)
-
-<br/>
-
-**🧠 AI · ML · Data**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-3a3a3a?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2b2b2b?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-1a1a1a?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-8a1c1c?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-c1272d?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-3a3a3a?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2b2b2b?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-1a1a1a?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-8a1c1c?style=for-the-badge&logo=streamlit&logoColor=white)
-
-<br/>
-
-**🗄️ Databases & Cloud**
-
-![Postgres](https://img.shields.io/badge/PostgreSQL-3a3a3a?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-2b2b2b?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![Firebase](https://img.shields.io/badge/Firebase-1a1a1a?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![AWS](https://img.shields.io/badge/AWS-8a1c1c?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![GCP](https://img.shields.io/badge/Google%20Cloud-c1272d?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-3a3a3a?style=for-the-badge&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-2b2b2b?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-1a1a1a?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-
-<br/>
-
-**🛠️ DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-8a1c1c?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-c1272d?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-3a3a3a?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-2b2b2b?style=for-the-badge&logo=gitlab&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-1a1a1a?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Power BI](https://img.shields.io/badge/Power%20BI-8a1c1c?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-c1272d?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+<img src="https://img.shields.io/badge/-NumPy-161b22?style=flat-square&logo=numpy&logoColor=013243"/>
+<img src="https://img.shields.io/badge/-Pandas-161b22?style=flat-square&logo=pandas&logoColor=150458"/>
+<img src="https://img.shields.io/badge/-scikit--learn-161b22?style=flat-square&logo=scikit-learn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/-Keras-161b22?style=flat-square&logo=keras&logoColor=D00000"/>
+<img src="https://img.shields.io/badge/-OpenCV-161b22?style=flat-square&logo=opencv&logoColor=5C3EE8"/>
+<img src="https://img.shields.io/badge/-Matplotlib-161b22?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Streamlit-161b22?style=flat-square&logo=streamlit&logoColor=FF4B4B"/>
+<img src="https://img.shields.io/badge/-Apache%20Kafka-161b22?style=flat-square&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JWT-161b22?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Swagger-161b22?style=flat-square&logo=swagger&logoColor=85EA2D"/>
+<img src="https://img.shields.io/badge/-Supabase-161b22?style=flat-square&logo=supabase&logoColor=3ECF8E"/>
+<img src="https://img.shields.io/badge/-Power%20BI-161b22?style=flat-square&logo=powerbi&logoColor=F2C811"/>
 
 </div>
 
@@ -152,27 +77,72 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
+## GitHub Analytics
 
 <br/>
 
-<img src="https://github-readme-stats.shion.dev/api?username=rishisingh9152-cyber&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rishisingh9152-cyber&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="170"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=rishisingh9152-cyber&theme=dark&hide_border=false&background=0d1117&ring=c1272d&fire=3a3a3a&currStreakLabel=c1272d" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rishisingh9152-cyber&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" width="95%"/>
-
-<br/><br/>
-
-## 🐍 The Grind — Contribution Snake
+<table>
+<tr>
+<td width="50%"><img src="https://github-readme-stats.shion.dev/api?username=rishisingh9152-cyber&theme=dark&hide_border=true&bg_color=0d1117&title_color=c1272d&icon_color=c1272d&text_color=c9d1d9&include_all_commits=true&count_private=false" width="100%"/></td>
+<td width="50%"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rishisingh9152-cyber&theme=dark&hide_border=true&bg_color=0d1117&title_color=c1272d&text_color=c9d1d9&layout=compact" width="100%"/></td>
+</tr>
+<tr>
+<td colspan="2"><img src="https://streak-stats.demolab.com/?user=rishisingh9152-cyber&theme=dark&hide_border=true&background=0d1117&ring=c1272d&fire=c1272d&currStreakLabel=c1272d&sideLabels=c9d1d9&dates=8b949e" width="100%"/></td>
+</tr>
+</table>
 
 <br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rishisingh9152-cyber&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=7"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## Featured Work
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🌡️ Sustainable Cooling System**
+<br/>Engineering project — Solar Decathlon India 2025
+
+Finalist entry that secured a ₹1.5L grant. Designed and built a low-power sustainable cooling solution, now the basis of a filed patent.
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ [Your next project]**
+<br/>*Add a repo — swap this card for a `github-readme-stats` pin*
+
+```md
+[![Pin](https://github-readme-stats.shion.dev/api/pin/?username=rishisingh9152-cyber&repo=REPO-NAME&theme=dark)](#)
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## The Grind
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishisingh9152-cyber/rishisingh9152-cyber/output/github-contribution-grid-snake-dark.svg"/>
@@ -190,10 +160,19 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=rishisingh9152-cyber&style=for-the-badge&color=3a3a3a&labelColor=0d1117&label=PROFILE+VIEWS)
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/singh-rishi-tech)
+[![Gmail](https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:singhrishi.tech@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishisingh9152-cyber)
+[![Mastodon](https://img.shields.io/badge/Mastodon-161b22?style=for-the-badge&logo=mastodon&logoColor=6364FF)](https://mastodon.social/@RishiSingh)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=rishisingh9152-cyber&style=flat-square&color=c1272d&labelColor=161b22&label=PROFILE+VIEWS)
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c1272d,25:3a3a3a,50:1a1a1a,75:8a1c1c,100:2b2b2b&height=120&section=footer&text=built%20by%20Rishi&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c1272d,50:6e1414,100:0d1117&height=110&section=footer&text=built%20by%20Rishi&fontSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
