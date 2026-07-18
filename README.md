@@ -2,23 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<style>
-  body {
-    background: #0d1117;
-    color: #c9d1d9;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-    max-width: 900px;
-    margin: 40px auto;
-    padding: 0 20px;
-    line-height: 1.6;
-  }
-  img { max-width: 100%; }
-  hr { border-color: #30363d; }
-  a { color: #c1272d; }
-  h2 { border-bottom: 1px solid #30363d; padding-bottom: 8px; }
-  table { border-collapse: collapse; width: 100%; }
-  td { padding: 6px; vertical-align: top; }
-</style>
+
 </head>
 <body>
 <div align="center">
